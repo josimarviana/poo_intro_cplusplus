@@ -13,4 +13,4 @@ main.o: main.cpp
 	g++	-c main.cpp -o main.o
 
 clean:
-	rm -fr main *.o
+	rm -fr sistema *.o
